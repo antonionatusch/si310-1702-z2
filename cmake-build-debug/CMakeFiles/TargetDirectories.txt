@@ -1,0 +1,3 @@
+C:/Users/UPSALAB/CLionProjects/si310-1702-z2/cmake-build-debug/CMakeFiles/si310_1702_z2.dir
+C:/Users/UPSALAB/CLionProjects/si310-1702-z2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/UPSALAB/CLionProjects/si310-1702-z2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
